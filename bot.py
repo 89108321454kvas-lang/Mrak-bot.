@@ -14,7 +14,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 
 # ===== НАСТРОЙКИ (ЗАМЕНИ ID СВОИМИ) =====
 APPLICATION_CHANNEL_ID = 1517656038080254043 # Канал для кнопки
-TICKET_CHANNEL_ID = 1517844036264788080 # Канал для заявок
+TICKET_CHANNEL_ID = 1517656038080254043 # Канал для заявок
 STAFF_ROLE_ID = 1517676531734941896      
 LOG_CHANNEL_ID = 1517844036264788080     
 TRIAL_ROLE_ID = 1517641157608476732      
